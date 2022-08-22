@@ -35,7 +35,7 @@ document.getElementById('player-2').addEventListener('click', function () {
         alert('cant')
     }
     else {
-        addnametolist('naimer-2');
+        addnametolist('Luka-2');
         document.getElementById('player-2').disabled = true;
     }
 })
@@ -44,7 +44,7 @@ document.getElementById('player-3').addEventListener('click', function () {
         alert('cant')
     }
     else {
-        addnametolist('naimer-3');
+        addnametolist('Benzema-3');
         document.getElementById('player-3').disabled = true;
     }
 })
@@ -53,7 +53,7 @@ document.getElementById('player-4').addEventListener('click', function () {
         alert('cant')
     }
     else {
-        addnametolist('naimer-4');
+        addnametolist('Rudiger-4');
         document.getElementById('player-4').disabled = true;
     }
 })
@@ -62,7 +62,7 @@ document.getElementById('player-5').addEventListener('click', function () {
         alert('cant')
     }
     else {
-        addnametolist('naimer-5');
+        addnametolist('massi-5');
         document.getElementById('player-5').disabled = true;
     }
 })
@@ -71,7 +71,7 @@ document.getElementById('player-6').addEventListener('click', function () {
         alert('cant')
     }
     else {
-        addnametolist('naimer-6');
+        addnametolist('Ronaldo-6');
         document.getElementById('player-6').disabled = true;
     }
 })
